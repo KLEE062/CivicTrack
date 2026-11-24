@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">CivicTrack</string>
+    <string name="tagline">Civic Workforce Verification</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_attendance">Attendance</string>
+    <string name="nav_documents">Media &amp; Docs</string>
+    <string name="nav_settings">Security</string>
+
+    <!-- Entry & Onboarding -->
+    <string name="welcome_title">Welcome to CivicTrack</string>
+    <string name="welcome_subtitle">Manage your organisation, coordinate your workforce and strengthen attendance accountability.</string>
+    <string name="owner_option_desc">Register your organisation and become its administrator. Manage employees, departments, workplaces, attendance and institutional reports.</string>
+    <string name="register_owner_button">Register as Organisation Owner</string>
+    <string name="supervisor_option_desc">Join an existing organisation through an authorised invitation and oversee assigned employees, departments or workplaces.</string>
+    <string name="join_supervisor_button">Join as Supervisor</string>
+    <string name="already_have_account_sign_in">Already have an account? Sign In</string>
+    <string name="forgot_password">Forgot Password</string>
+
+    <!-- Auth -->
+    <string name="tab_register">Register</string>
+    <string name="tab_sign_in">Sign In</string>
+    <string name="register_title">Employee Registration</string>
+    <string name="register_subtitle">Create your CivicTrack workforce account before signing in.</string>
+    <string name="register_button">Create Employee Account</string>
+    <string name="full_name_label">Full Name</string>
+    <string name="employee_code_label">Employee Code (e.g. CT-1042)</string>
+    <string name="department_label">Department (Optional)</string>
+    <string name="role_label">Role / Title (Optional)</string>
+    <string name="confirm_password_label">Confirm Password</string>
+    <string name="login_title">Employee Sign In</string>
+    <string name="login_subtitle">Sign in with your organization account to load your assigned workplace and geofence rules.</string>
+    <string name="email_label">Work Email</string>
+    <string name="password_label">Password</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="sign_out_button">Sign Out</string>
+
+    <!-- Permissions & Rationale -->
+    <string name="location_rationale_title">Location Needed for Attendance</string>
+    <string name="location_rationale_body">CivicTrack checks your device location only at the moment you tap Check In or Check Out to verify you are within your assigned workplace geofence. Background tracking is never used.</string>
+    <string name="camera_rationale_title">Camera Needed for Capture</string>
+    <string name="camera_rationale_body">CivicTrack uses your camera only when you choose to take a profile photo or capture a workforce document. Photos are previewed before upload.</string>
+    <string name="allow_permission">Allow Access</string>
+    <string name="open_app_settings">Open App Settings</string>
+    <string name="open_location_settings">Open Location Settings</string>
+    <string name="open_biometric_settings">Enroll in Device Settings</string>
+    <string name="not_now">Not Now</string>
+
+    <!-- Attendance Workflow -->
+    <string name="check_in_button">Check In</string>
+    <string name="check_out_button">Check Out</string>
+    <string name="step_biometric_title">1. Device Biometric Auth</string>
+    <string name="step_geofence_title">2. Workplace Geofence Check</string>
+    <string name="step_attendance_title">3. Attendance Record Sync</string>
+    <string name="biometric_security_notice">Local OS authentication only. CivicTrack never collects, stores, or transmits fingerprint images or face templates.</string>
+
+    <!-- Camera & Documents -->
+    <string name="capture_profile_photo">Capture Profile Photo</string>
+    <string name="capture_document">Scan Workforce Document</string>
+    <string name="upload_document_picker">Select Image from Gallery</string>
+    <string name="retake_photo">Retake</string>
+    <string name="confirm_upload">Confirm &amp; Upload</string>
+    <string name="cancel_action">Cancel</string>
+</resources>

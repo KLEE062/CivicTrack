@@ -1,0 +1,6 @@
+{
+  "name": "CivicTrack",
+  "description": "Workforce attendance verification with Android location geofencing, CameraX capture, and biometric authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
